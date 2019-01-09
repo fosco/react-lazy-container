@@ -1,6 +1,6 @@
 {
   "name": "react-lazy-container",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "The infinite scrolling component you were looking for.",
   "main": "build/index.js",
   "scripts": {
