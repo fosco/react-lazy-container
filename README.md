@@ -1,4 +1,4 @@
-# react-expandable-treeview 
+# react-lazy-container 
 [![npm version](https://badge.fury.io/js/react-lazy-container.svg)](https://badge.fury.io/js/react-lazy-container)
 
 The infinite scrolling component you were looking for.
